@@ -9,7 +9,7 @@ It has three windows as you can see. If you click the button "加载图片" you 
 ## Examples
 You can check some examples in images.
 ## Note
-I finished this GUI a long times ago and rencently I find it and decide to push it into my github. Some details I don't remember. Because I pack it to creat a ".exe" it is not easy to change the codes. So there are some Chinese and some functions have strange names. I am very sorry and if you have any problems, feel free to rasie an issue.  
+I finished this GUI a long times ago and rencently I find it and decide to push it into my github. Some details I have not remembered yet. Because I pack it to creat a ".exe", it is not easy to change the codes, so there are some Chinese and some functions have strange names. I am very sorry and if you have any problems, feel free to rasie an issue. Also you may tell that I am from China and English in not my native language, please pardon me for some spelling or grammar mistakes.  
 
 
 
